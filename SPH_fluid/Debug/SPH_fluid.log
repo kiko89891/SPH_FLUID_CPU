@@ -1,0 +1,15 @@
+﻿  SPH_fluid.cpp
+C:\Users\ruller\OneDrive\Desktop\SPH\SPH_fluid\SPH_fluid.cpp : warning C5210: 'CALCULATIONS.cuh' is not a valid header unit reference; ignoring
+C:\Users\ruller\OneDrive\Desktop\SPH\SPH_fluid\SPH_fluid.cpp(34,27): warning C4244: 'initializing': conversion from 'long double' to 'float', possible loss of data
+C:\Users\ruller\OneDrive\Desktop\SPH\SPH_fluid\SPH_fluid.cpp(34,19): warning C4244: 'initializing': conversion from 'long double' to 'const float', possible loss of data
+C:\Users\ruller\OneDrive\Desktop\SPH\SPH_fluid\SPH_fluid.cpp(35,32): warning C4244: 'initializing': conversion from 'long double' to 'float', possible loss of data
+C:\Users\ruller\OneDrive\Desktop\SPH\SPH_fluid\SPH_fluid.cpp(35,24): warning C4244: 'initializing': conversion from 'long double' to 'const float', possible loss of data
+C:\Users\ruller\OneDrive\Desktop\SPH\SPH_fluid\SPH_fluid.cpp(36,29): warning C4244: 'initializing': conversion from 'long double' to 'float', possible loss of data
+C:\Users\ruller\OneDrive\Desktop\SPH\SPH_fluid\SPH_fluid.cpp(36,22): warning C4244: 'initializing': conversion from 'long double' to 'const float', possible loss of data
+C:\Users\ruller\OneDrive\Desktop\SPH\SPH_fluid\SPH_fluid.cpp(128,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ruller\OneDrive\Desktop\SPH\SPH_fluid\SPH_fluid.cpp(158,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ruller\OneDrive\Desktop\SPH\SPH_fluid\SPH_fluid.cpp(204,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ruller\OneDrive\Desktop\SPH\SPH_fluid\SPH_fluid.cpp(204,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ruller\OneDrive\Desktop\SPH\SPH_fluid\SPH_fluid.cpp(261,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ruller\OneDrive\Desktop\SPH\SPH_fluid\SPH_fluid.cpp(263,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SPH_fluid.vcxproj -> C:\Users\ruller\OneDrive\Desktop\SPH\SPH_fluid\Debug\SPH_fluid.exe
