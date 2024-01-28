@@ -6,8 +6,10 @@ It is based of the following papers -
 // https://math.stackexchange.com/questions/3898821/laplacian-of-viscosity-kernel-function-m%C3%BCller-sph -
 // 
 // 
-// https://www.youtube.com/watch?v=HzFatL3WT6g - setup open gl 
-// 
+
+
+https://www.youtube.com/watch?v=HzFatL3WT6g - setup open gl 
+
 
 Moreover It is expected that you have GLUT and GLEW libraries. 
 
