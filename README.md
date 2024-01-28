@@ -23,4 +23,7 @@ Their setup can be found in the folliwing video:
 
 It runs best using x86 although it can run on x64 as well. 
 
+https://github.com/kiko89891/SPH_FLUID_CPU/assets/37628814/55122037-3def-423e-ace1-dfca854a1d81
+
+
 Currently I making a GPU version of this using CUDA. 
