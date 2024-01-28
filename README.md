@@ -11,6 +11,10 @@ It is based of the following papers -
 
 Moreover It is expected that you have GLUT and GLEW libraries. 
 
+
+
+
+
 Their setup can be found in the folliwing video: 
 
 //https://www.youtube.com/watch?v=IXScMC1kh6w&t=132s
