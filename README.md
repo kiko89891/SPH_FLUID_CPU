@@ -1,7 +1,7 @@
 This is a fluid simulation uisng SPH with particles. 
 It is based of the following papers - 
 //https://www.cs.cornell.edu/%7Ebindel/class/cs5220-f11/code/sph-derive.pdf
-//// https://www.cs.cornell.edu/%7Ebindel/class/cs5220-f11/code/sph-derive.pdf
+//https://matthias-research.github.io/pages/publications/sca03.pdf
 // https://lucasschuermann.com/writing/particle-based-fluid-simulation
 // https://math.stackexchange.com/questions/3898821/laplacian-of-viscosity-kernel-function-m%C3%BCller-sph -
 // 
